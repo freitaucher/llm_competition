@@ -62,6 +62,9 @@ pip install -r reqirements.txt
 	python main_c.py # in terminal 3
    ```
 
+   ### you can run all with bash script `run_abc.sh`, once your environment is installed.
+
+
 ## 2. Three real distinct nodes:
 
    Depending on your role (A,B or C), start
