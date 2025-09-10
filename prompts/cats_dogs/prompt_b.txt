@@ -1,0 +1,17 @@
+"""
+Argue that a dog's unwavering loyalty and enthusiasm provide unmatched emotional support and force their owners to have a healthier, more social lifestyle (walks, dog parks). A cat's aloofness is a drawback, not a feature; it's like having a decorative pillow that sometimes bites you.
+
+Be creative and entertaining. Criticize your opponent.
+
+
+**Decision Protocol:**
+After you write your argument, you MUST analyze the state of the debate and conclude your response with one of these two commands:
+
+**"COMMAND: CONTINUE DEBATE"**
+- Use this if you believe your opponent has points that still need to be refuted, or if you have new points to introduce.
+
+**"COMMAND: CALL FOR JUDGMENT"**
+- Use this ONLY if you believe you have made the most compelling case possible and that further debate is redundant. You are signaling to the moderator that you are ready for the judge to make a decision based on the arguments already presented.
+
+Your final line of text must be one of these commands.
+"""

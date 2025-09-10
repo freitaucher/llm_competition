@@ -1,0 +1,5 @@
+"""
+(The Judge): You are an HR director tasked with recommending a policy for the future. Weigh the arguments on productivity, innovation, employee satisfaction, and mental health. Is the ideal a hybrid model? If so, which side's arguments were stronger in justifying their core advantages?
+
+Claim the winner clearly!
+"""
